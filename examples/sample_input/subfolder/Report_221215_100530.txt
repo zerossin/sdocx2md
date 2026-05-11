@@ -1,0 +1,10 @@
+This is a report document.
+
+## Executive Summary
+Key findings from our analysis.
+
+## Details
+More detailed information goes here.
+
+## Conclusion
+Final thoughts and recommendations.

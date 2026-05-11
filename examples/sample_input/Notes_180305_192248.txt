@@ -1,0 +1,14 @@
+# Sample input file for testing
+This is a sample text file for sdocx2md testing.
+
+## Section 1
+This is the first section with some content.
+
+## Section 2
+This is the second section with more content.
+
+- Bullet point 1
+- Bullet point 2
+- Bullet point 3
+
+That's all for this sample!

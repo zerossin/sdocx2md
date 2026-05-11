@@ -1,0 +1,12 @@
+Meeting notes from December 2022.
+
+### Topic 1
+Discussion points on first topic.
+
+### Topic 2
+Discussion points on second topic.
+
+### Action Items
+- Item 1
+- Item 2
+- Item 3
