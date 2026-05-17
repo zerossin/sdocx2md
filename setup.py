@@ -8,12 +8,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="sdocx2md",
     version="0.1.0",
-    author="cherossin",
-    author_email="cherossin@gmail.com",
+    author="zerossin",
+    author_email="zerossin@gmail.com",
     description="Convert DOCX/TXT files to Markdown with structured metadata",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cherossin/sdocx2md",
+    url="https://github.com/zerossin/sdocx2md",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
